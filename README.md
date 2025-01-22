@@ -1,6 +1,5 @@
 <br/>
     <h1 align="center">👋 Hola, soy Anibal Quintero</h1>
-<br/>
 
 <div align="center">
   <img src ="./Banner.png" />
